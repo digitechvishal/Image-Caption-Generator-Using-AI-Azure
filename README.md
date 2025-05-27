@@ -11,7 +11,8 @@ This project uses **AI and Azure Computer Vision API** to generate automatic cap
 
 ## 📷 Sample Output
 
-![Output Screenshot](https://raw.githubusercontent.com/imvishal-python/Image-Caption-Generator-Using-AI-Azure/main/output-screenshot.png)
+[![Output Screenshot](https://raw.githubusercontent.com/imvishal-python/Image-Caption-Generator-Using-AI-Azure/main/output-screenshot.png)](https://raw.githubusercontent.com/imvishal-python/Image-Caption-Generator-Using-AI-Azure/main/output-screenshot.png
+)
 
 ## 🚀 Getting Started
 
