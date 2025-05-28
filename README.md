@@ -1,6 +1,7 @@
 # 🖼️ Image Caption Generator using AI and Azure Computer Vision
 
-This project uses **AI and Azure Computer Vision API** to generate automatic captions for uploaded images. Built with **Streamlit**, it offers a clean web UI to interact with the AI service and get captions along with confidence scores.
+
+This project uses AI and Azure Computer Vision API to generate automatic captions for uploaded images. Built with Streamlit, it offers a clean web UI to interact with the AI service and get captions along with confidence scores.
 
 ## 🔧 Features
 
