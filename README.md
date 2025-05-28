@@ -10,8 +10,7 @@ This project uses **AI and Azure Computer Vision API** to generate automatic cap
 - Built with Python and Streamlit
 
 ## 📷 Sample Output
-
-![Output Screenshot](assets/output-screenshot.png)
+[assets/output-screenshot.png](assets/output-screenshot.png)
 
 ## 🚀 Getting Started
 
