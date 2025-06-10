@@ -3,7 +3,7 @@ import requests
 from PIL import Image
 import io
 
-# Replace with your own endpoint and key
+# Replace with your own endpoint and key use free tier
 AZURE_ENDPOINT = "https://<your-region>.api.cognitive.microsoft.com/"
 AZURE_KEY = "your_key_here"
 
