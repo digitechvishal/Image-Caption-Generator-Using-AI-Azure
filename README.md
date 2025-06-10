@@ -1,7 +1,7 @@
 # 🖼️ Image Caption Generator using AI and Azure Computer Vision
 
 
-This project is a lightweight web application that leverages Microsoft Azure’s Computer Vision API to generate accurate captions for uploaded images. Designed using Python and Streamlit, it provides a clean and intuitive interface to interact with AI-powered image analysis.
+This project is a lightweight web application that leverages Microsoft Azure’s Computer Vision API to generate accurate captions for uploaded images. Designed using Python and Streamlit, it provides a clean and intuitive interface to interact with AI-powered image analysis
 
 ## 🔧 Features
 
